@@ -1,0 +1,43 @@
+body{
+    padding: 100px;
+}
+header{
+    background-color: aqua;
+}
+h1{
+    padding: 20px
+}
+a{
+    padding: 20px
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.intro .conte{
+    height: 300px;
+    width: 100px;
+    display: inline-block; 
+    background-color: lightblue; 
+}
+#introduccion{
+    padding: 20px;
+    background-color: blue;
+    height: 500px;
+}
+#contenido{
+    padding: 20px;
+    background-color: red;
+    height: 250px;
+
+
+}
+.logos{
+    display: flex;
+    justify-content: center;
+}
+.imagenes{
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+}
